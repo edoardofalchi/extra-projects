@@ -11,3 +11,9 @@ Here is the list with a brief summary of the content for each mini-project (clic
 
 * **[Products rating](https://mybinder.org/v2/gh/edoardofalchi/extra-projects/main?filepath=Product%20rating.ipynb)** :shopping:
 > Here I try to answer to a simple question which propably we had to answer few times while doing online shopping for example on Amazon: would you rather buy the product with less reviews but higher rating stars, or a similar product with more reviews but lower rating stars? I analyse this issue by means of a Monte Carlo simulation varying sample size and distribution of ratings
+
+* **[SVM for cancer cells](https://nbviewer.jupyter.org/github/edoardofalchi/extra-projects/blob/main/SVM_cancer%20cells.ipynb)** :medical_symbol:
+> I use Support Vector Machine to build and train a model using human cell records, and classify cells to whether the samples are benign (mild state) or malignant (evil state).
+
+* **[Sample Size: energy drink campaign](https://nbviewer.jupyter.org/github/edoardofalchi/extra-projects/blob/main/Sample%20Size.ipynb)** :cup_with_straw:
+> in the first part I implement a Monte Carlo simulation and in the second part a Bayesian analysis where based on prior understanding about how likely we are to have any of many 'true' distributions.
