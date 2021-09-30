@@ -25,7 +25,7 @@ Here is the list with a brief summary of the content for each mini-project (clic
 > This notebook is aimed at locating and plotting the location of the International Space Station.
 
 * **[Pi approximation](https://nbviewer.jupyter.org/github/edoardofalchi/extra-projects/blob/main/pi%20approximation%20function.ipynb)** :white_circle:
-> I want to estimate $\pi$, given that having random (0,1)
+> I want to estimate $ \pi $, given that having random (0,1)
 
 * **[Dif-in-Dif: physician copayment](https://nbviewer.jupyter.org/github/edoardofalchi/extra-projects/blob/main/physician%20copayment%20reform%20%28Dif-in-Dif%20design%29.ipynb)** :hospital:
 > Did elimination of copayment in Norway increase visits to the physician? This notebook implements the Difference in Difference method for causality.
