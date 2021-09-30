@@ -17,3 +17,5 @@ Here is the list with a brief summary of the content for each mini-project (clic
 
 * **[Sample Size: energy drink campaign](https://nbviewer.jupyter.org/github/edoardofalchi/extra-projects/blob/main/Sample%20Size.ipynb)** :cup_with_straw:
 > in the first part I implement a Monte Carlo simulation and in the second part a Bayesian analysis where based on prior understanding about how likely we are to have any of many 'true' distributions.
+
+* **[]()**
