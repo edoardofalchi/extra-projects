@@ -1,5 +1,5 @@
 # extra-projects in Pyhton | Edoardo Falchi
-This repository $X$ contains the notebook of several mini-projects I did starting from my own personal interest. Topics range from very different domain.
+This repository $$X$$ contains the notebook of several mini-projects I did starting from my own personal interest. Topics range from very different domain.
 
 Here is the list with a brief summary of the content for each mini-project (click on the link to jump straightaway into the rendered notebook):
 
